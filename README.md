@@ -60,7 +60,7 @@ You can test these endpoints using tools like [curl](https://curl.haxx.se/) or A
 
 ### Database
 
-This project includes a Postgres database. You can configure the database connection in the `.env` file.
+This project includes a Postgres database. You can configure the database connection in the `Makefile` file.
 
 ### Acknowledgments
 
